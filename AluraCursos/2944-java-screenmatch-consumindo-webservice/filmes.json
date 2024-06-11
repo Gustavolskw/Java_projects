@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "The Avengers",
+    "Year": 2012,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 143
+  },
+  {
+    "Title": "Harry Potter and the Deathly Hallows: Part 2",
+    "Year": 2011,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 130
+  },
+  {
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Year": 2001,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 178
+  }
+]
